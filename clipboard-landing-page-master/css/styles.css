@@ -1,0 +1,195 @@
+body{
+
+  font-family: 'Bai Jamjuree', sans-serif;;
+  color: hsl(201, 11%, 66%);
+  text-align: center;
+  font-size: 16px;
+  margin: 0 0;
+}
+
+h1{
+  color:hsl(210, 10%, 33%);
+}
+
+.logo-image{
+height: 100px;
+width: 100px;
+margin-bottom: 50px;
+}
+.top-title{
+
+  margin: 0 auto;
+  width: 600px;
+  margin-bottom: 10px;
+}
+
+.top-title-discription{
+  margin: 0 auto;
+  width: 500px;
+  margin-bottom: 50px;
+}
+
+.download-btn{
+  margin: 0 auto;
+  width: 300px;
+  padding: 10px 20px;
+  background-color: hsl(171, 66%, 44%);
+  text-decoration: none;
+  color: white;
+  border-radius: 30px;
+}
+
+.sized-box{
+  height: 100px;
+}
+
+.mini-container{
+  margin: 0 auto;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  bottom: 85px;
+}
+h2{
+  color: hsl(210, 10%, 33%);
+}
+.track{
+  margin: 0 auto;
+  width: 500px;
+  margin-bottom:  50px;
+}
+.computer-image{
+  margin: 0 auto;
+  height: 600px;
+  position: relative;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+
+
+}
+h3{
+  width: 200px;
+  color: hsl(210, 10%, 33%);
+}
+.mini-discription{
+  width: 300px;
+  
+
+}
+p{
+  margin: 0 auto;
+  width: 500px;
+}
+.devices-image{
+  margin: 0 auto;
+  height: 800px;
+  display: block;
+  margin-bottom: 20px;
+
+}
+.default-padding{
+  height: 50px;
+}
+.list-cons{
+  display: block;
+
+}
+
+.menu-container{
+  margin: 0 auto;
+  text-align: center;
+  width: 300px;
+  position: relative;
+  right: 300px;
+}
+.menu-container2{
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  bottom: 196px;
+  width: 300px;
+
+}
+.menu-container3{
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  bottom: 352px;
+  left: 300px;
+  width: 300px;
+
+}
+.list-icons-title{
+  line-height: 3;
+  margin: 0 auto;
+  text-align: center;
+}
+.list-icons-discription{
+  text-align: center;
+  width: 300px;
+  display: block;
+  line-height: 2;
+}
+
+.logo-container{
+  position: relative;
+  bottom: 212px;
+
+}
+
+.logo{
+
+  text-align: center;
+  display: inline-block;
+  margin-left: 40px;
+}
+
+/* clipboard section */
+.clipboard{
+  position: relative;
+  bottom: 100px;
+}
+
+footer{
+  background-color:#F5F6F8;
+  height: 12rem;
+  font-size: 1.4rem;
+
+
+}
+span{
+  padding-left: 6%;
+
+}
+.footer-notes{
+  display: inline-block;
+  padding-left: 8rem;
+}
+
+.infos{
+  width: 10rem;
+  text-align: left;
+  display: inline-block;
+  padding-right: 4rem
+}
+h6{
+  font-size: 1.2rem;
+
+}
+.social-logo{
+  display: inline-block;
+  padding-left: 20rem;
+
+}
+.social-icon{
+  font-size: 30px;
+  margin-left: 1.5rem;
+  color: #000;
+  position: relative;
+  bottom: 25px;
+}
+
+.social-icon:hover{
+  color: #468E91;
+}
